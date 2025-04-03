@@ -11,7 +11,7 @@ Skilled in Software Development, Data Science, Algorithms, Object-Oriented Progr
 - 👨🏻‍🎓 About me, I am pure hardwork ➕ a little talent ➕ a little humor ➕ and a lot of neardyness ♾️ 🤓.
 - 🦻 You ask what I do in my free time. 🤔 well, I am a fledgling 🐥 bookworm 📚 🐛 😛 and I love playing cricket 🏏😍, Dancing.
 - 💡 Ask me about web development or coding tips
-- 
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-saini-26a39a236/)
 
