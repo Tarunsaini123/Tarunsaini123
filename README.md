@@ -14,49 +14,8 @@ Skilled in Software Development, Data Science, Algorithms, Object-Oriented Progr
 
 💻 Tech Stack:
 
-# Project Name
-
-A short description of what your project does.
-
-## Technologies Used
-
-Here are the technologies used in this project:
-
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white) HTML5
-- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white) TailwindCSS
-- ![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=flat-square&logo=express&logoColor=white) Express.js
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript
-- ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black) React
-- ![React Native](https://img.shields.io/badge/React%20Native-%23000000?style=flat-square&logo=react&logoColor=white) React Native
-- ![React Query](https://img.shields.io/badge/React%20Query-%23FF4154?style=flat-square&logo=react-query&logoColor=white) React Query
-- ![React Router](https://img.shields.io/badge/React%20Router-%23000000?style=flat-square&logo=react-router&logoColor=white) React Router
-- ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23800000?style=flat-square&logo=react-hook-form&logoColor=white) React Hook Form
-- ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white) Next.js
-- ![Nodemon](https://img.shields.io/badge/Nodemon-%23404d59?style=flat-square&logo=nodemon&logoColor=white) Nodemon
-- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white) TypeScript
-- ![Supabase](https://img.shields.io/badge/Supabase-%230D1C2E?style=flat-square&logo=supabase&logoColor=white) Supabase
-- ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white) Postman
-- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white) MySQL
-- ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=firebase&logoColor=white) Firebase
-- ![Vite](https://img.shields.io/badge/Vite-%230A8E4F?style=flat-square&logo=vite&logoColor=white) Vite
-- ![Yarn](https://img.shields.io/badge/Yarn-%234E6A92?style=flat-square&logo=yarn&logoColor=white) Yarn
-- ![WordPress](https://img.shields.io/badge/WordPress-%234A69A4?style=flat-square&logo=wordpress&logoColor=white) WordPress
-- ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white) NodeJS
-- ![Less](https://img.shields.io/badge/Less-%23000000?style=flat-square&logo=less&logoColor=white) Less
-- ![MUI](https://img.shields.io/badge/MUI-%2300A2D4?style=flat-square&logo=mui&logoColor=white) MUI
-
-## Features
-
-- List the features of your project here.
-
-## How to Run
-
-Explain how to run the project locally, if applicable.
-
-## License
-
-Include your license information here.
-
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white) HTML5 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white) CSS3 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white) Bootstrap ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white) Tailwind CSS ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white) Node.js ![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=flat-square&logo=express&logoColor=white) Express.js ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black) React.js ![MSSQL](https://img.shields.io/badge/MSSQL-%23CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) MSSQL ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%230075B8?style=flat-square&logo=postgresql&logoColor=white) PostgreSQL ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white) MongoDB ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white) MySQL ![Vite](https://img.shields.io/badge/Vite-%230A8E4F?style=flat-square&logo=vite&logoColor=white) Vite ![Yarn](https://img.shields.io/badge/Yarn-%234E6A92?style=flat-square&logo=yarn&logoColor=white) Yarn ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white) Postman ![Azure](https://img.shields.io/badge/Azure-%230078D4?style=flat-square&logo=microsoft-azure&logoColor=white) Azure ![npm](https://img.shields.io/badge/npm-%2380C7E2?style=flat-square&logo=npm&logoColor=white) npm ![Python](https://img.shields.io/badge/Python-%233399FF?style=flat-square&logo=python&logoColor=white) Python
+ ![Java](https://img.shields.io/badge/Java-%23F8981D?style=flat-square&logo=java&logoColor=white) Java
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
