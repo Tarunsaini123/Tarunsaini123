@@ -22,8 +22,12 @@ Skilled in Software Development, Data Science, Algorithms, Object-Oriented Progr
 ![TarunSaini123's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarunsaini123&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ### Most Used Languages:
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsaini123&layout=compact&theme=radical)
+
+## ✍️ Random Dev Quote:
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
